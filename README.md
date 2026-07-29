@@ -1,2 +1,12 @@
 # byu-revisions-
 this is a repositoriy of byu courses 
+
+https://byui-cse.github.io/cse340-ww-course-v2/index.html    /// backend programming using node js /express js
+
+https://byui-cse.github.io/itm111-ww-course-v2/index.html    /// intro to databases  
+
+https://byui-cse.github.io/wdd231-ww-course           /// front end development part 1
+
+https://byui-cse.github.io/wdd330-ww-course/          //// front end part 2
+
+https://byui-cse.github.io/wdd430-ww-course-v2/     /// fullstack
