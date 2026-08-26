@@ -10,3 +10,5 @@ https://byui-cse.github.io/wdd231-ww-course           /// front end development 
 https://byui-cse.github.io/wdd330-ww-course/          //// front end part 2
 
 https://byui-cse.github.io/wdd430-ww-course-v2/     /// fullstack
+
+https://pathway.cse.byui.edu/                      /// FULLPACK OF ALL COURSE
